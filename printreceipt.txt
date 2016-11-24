@@ -1,0 +1,10 @@
+Movie Title: Behind the Screen
+
+Date: 20 Nov 2016     Time: 1:15
+
+Type of Ticket: Adult
+
+Number Of Tickets: 5
+
+Total Amount: $75
+
